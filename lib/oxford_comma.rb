@@ -1,5 +1,5 @@
 def oxford_comma(array)
-  array.to_sentence
+  array.to_sentence(" , and ")
 end
   #if array.length==2
   #array[0]<< " and"
